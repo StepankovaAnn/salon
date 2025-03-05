@@ -24,7 +24,7 @@ DROP TABLE IF EXISTS `appointments1`;
 /*!50503 SET character_set_client = utf8mb4 */;
 CREATE TABLE `appointments1` (
   `id` int NOT NULL AUTO_INCREMENT,
-  `fio` varchar(255) NOT NULL,
+  `fio` varchar(255) NOT NULLLLLLLLLLLLLLLLLLLLLLL,
   `date` varchar(255) NOT NULL,
   `time` varchar(255) NOT NULL,
   `service` varchar(255) NOT NULL,
