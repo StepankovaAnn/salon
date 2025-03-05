@@ -42,7 +42,7 @@ LOCK TABLES `appointments1` WRITE;
 INSERT INTO `appointments1` VALUES (2,'Панфилова Светлана Дмитриевна','2024-06-10','10:00','Стрижка модельная','София'),(3,'Панфилова Светлана Дмитриевна','2024-04-10','09:00','Уход за волосами увлажняющие процедуры','Ульяна');
 /*!40000 ALTER TABLE `appointments1` ENABLE KEYS */;
 UNLOCK TABLES;
-
+kfkfkfjhhgfhffhjhfjhjfhj
 --
 -- Table structure for table `freetime`
 --
